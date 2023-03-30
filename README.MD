@@ -1,1 +1,1 @@
-[![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickyudha)](https://github.com/anuraghazra/github-readme-stats)
+[![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickyudha&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
